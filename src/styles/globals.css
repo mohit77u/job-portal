@@ -1,0 +1,32 @@
+@import '../assets/css/animate.min.css';
+@import '../assets/css/bootstrap.min.css';
+@import '../assets/css/candidates.css';
+@import '../assets/css/flaticon.css';
+@import '../assets/css/font-awesome.min.css';
+@import '../assets/css/gijgo.css';
+@import '../assets/css/magnific-popup.css';
+@import '../assets/css/nice-select.css';
+@import '../assets/css/slicknav.css';
+@import '../assets/css/style.css';
+@import '../assets/css/themify-icons.css';
+
+.logo img {
+    max-width: 60%;
+    width: 100%;
+}
+
+.secondary-header {
+    background: #001d38 !important;
+}
+
+.secondary .header-area {
+    position: relative;
+}
+
+.login {
+    padding: 100px 0;
+}
+
+.login input{
+    padding: 15px 20px;
+}
